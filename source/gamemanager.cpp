@@ -9,7 +9,6 @@ GameManager::GameManager()
 void GameManager::keyPressEvent(QKeyEvent * event) {
     if(event->key() == Qt::Key_Left) {
         qDebug() << "left pressed";
-        this
     } else if (event->key() == Qt::Key_Right) {
         qDebug() << "right pressed";
     } else if (event->key() == Qt::Key_Up) {
