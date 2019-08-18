@@ -1,6 +1,5 @@
 #include "initialscene.h"
 #include <QTimer>
-#include <gamemanager.h>
 #include <QThread>
 #include <QDebug>
 #include <QGraphicsRectItem>
